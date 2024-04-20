@@ -1,7 +1,7 @@
 {
     "api": {
         "id": null,
-        "worker-id": "workers"
+        "worker-id": "server1-halex"
     },
     "http": {
         "enabled": false,
